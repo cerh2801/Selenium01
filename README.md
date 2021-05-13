@@ -1,3 +1,3 @@
 # Selenium01
 Ejercicios selenium
-ejercicios selenium 02
+#ejercicios selenium 02
